@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Popul gulp template starter",
   "main": "index.js",
-  "dependencies": {
-    "bootstrap": "^4.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-preset-env": "^1.6.1",
@@ -17,7 +15,9 @@
     "gulp-ejs": "^3.1.1",
     "gulp-html-replace": "^1.6.2",
     "gulp-sass": "^3.1.0",
-    "gulp-sourcemaps": "^2.6.4"
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "pump": "^3.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

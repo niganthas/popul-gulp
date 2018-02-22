@@ -1,0 +1,1 @@
+console.log("this is","./src/js/main.js","file");
