@@ -1,0 +1,29 @@
+{
+  "name": "popul-gulp",
+  "version": "1.0.0",
+  "description": "Popul gulp template starter",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niganthas/popul-gulp.git"
+  },
+  "keywords": [
+    "starter",
+    "template",
+    "gulp",
+    "bootstap"
+  ],
+  "author": "Popov Alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niganthas/popul-gulp/issues"
+  },
+  "homepage": "https://github.com/niganthas/popul-gulp#readme"
+}
